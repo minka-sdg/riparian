@@ -62,7 +62,7 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<activesupport>, ["> 3.0.0"])
       s.add_runtime_dependency(%q<rdoc>, [">= 0"])
       s.add_runtime_dependency(%q<delayed_job>, [">= 0"])
-      s.add_runtime_dependency(%q<paperclip>, [">= 0"])
+      s.add_runtime_dependency(%q<kt-paperclip>, [">= 0"])
       s.add_development_dependency(%q<bundler>, [">= 0"])
       s.add_development_dependency(%q<jeweler>, [">= 0"])
     else
@@ -70,7 +70,7 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<activesupport>, ["> 3.0.0"])
       s.add_dependency(%q<rdoc>, [">= 0"])
       s.add_dependency(%q<delayed_job>, [">= 0"])
-      s.add_dependency(%q<paperclip>, [">= 0"])
+      s.add_dependency(%q<kt-paperclip>, [">= 0"])
       s.add_dependency(%q<bundler>, [">= 0"])
       s.add_dependency(%q<jeweler>, [">= 0"])
     end
@@ -79,7 +79,7 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<activesupport>, ["> 3.0.0"])
     s.add_dependency(%q<rdoc>, [">= 0"])
     s.add_dependency(%q<delayed_job>, [">= 0"])
-    s.add_dependency(%q<paperclip>, [">= 0"])
+    s.add_dependency(%q<kt-aperclip>, [">= 0"])
     s.add_dependency(%q<bundler>, [">= 0"])
     s.add_dependency(%q<jeweler>, [">= 0"])
   end
